@@ -4,11 +4,13 @@ The concept of ***ML model aggregation rather than data aggregation*** has gaine
 
 ## Table of Contents
 
-## Algorithms to Combining ML Models
+## Algorithms for Combining ML Models
+
+
 
 ## Devices and Datasets for Experiments 
 
-Below are the Chosen heterogeneous devices on which distributed ML model training is performed then combined using 7 combining methods.
+**Devices:** Distributed, ubiquitous IoT Devices in the real world have heterogeneous hardware specifications. To replicate this scenario, the devices chosen to carry out the distributed training, given in below Table, contains 10 resource-constrained MCU boards (B1-B10) and 5 CPU devices (C1-C5). 
 
 |                                                                       | Board\#: **Name**      | **Specs: Processor flash, SRAM, clock (MHz)**  |
 | :-------------------------------------------------------------------- | :--------------------- | :--------------------------------------------- |
@@ -29,7 +31,7 @@ Below are the Chosen heterogeneous devices on which distributed ML model trainin
 |                                                                       | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                         |
 |                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @2\.4GHz                            |
 
-Below datasets are used for training on MCUs and CPUs.
+**Datasets:** Below datasets are used for training on MCUs and CPUs.
 
 1. [Banknote Authentication](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) (5 features, 2 classes, 1372 samples) <br/>
 2. [Haberman's Survival](https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival) (3 features, 2 classes, 306 samples). <br/>
