@@ -1,5 +1,19 @@
 # Combining Ubiquitous ML Models in IoT (Repo under construction)
 
+## Table of Contents
+
+## Algorithms used for Combining ML Models
+
+## Devices and Datasets for Experiments 
+
+Below are the Chosen heterogeneous devices on which distributed ML model training is performed then combined using 7 combining methods.
+
+Below datasets are used for training on MCUs and CPUs.
+
+1. [Banknote Authentication](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) (5 features, 2 classes, 1372 samples) <br/>
+2. [Haberman's Survival](https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival) (3 features, 2 classes, 306 samples). <br/>
+3. [Titanic](https://www.kaggle.com/c/titanic/data) (11 features, 2 classes,  1300 samples) <br/>
+
 ## Useful Books, Toolboxes and Datasets
 
 ### Books
