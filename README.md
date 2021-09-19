@@ -2,8 +2,8 @@
 
 ## Extras: Source and Ranking Portals
 
-1. [CORE] (http://portal.core.edu.au/conf-ranks/)
-2. [ERA] (http://www.conferenceranks.com/#)
+1. [CORE](http://portal.core.edu.au/conf-ranks/)
+2. [ERA](http://www.conferenceranks.com/#)
 3. [SJR](https://www.scimagojr.com/)
 
 ## Extras: Reputed Data Mining Conferences/Workshops/Journals
