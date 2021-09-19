@@ -8,24 +8,24 @@
 
 Below are the Chosen heterogeneous devices on which distributed ML model training is performed then combined using 7 combining methods.
 
-|                                                                       | ****Board\#: **Name**  | **Specs: Processor flash, ** <br> **SRAM, clock (MHz)**  |
-| :-------------------------------------------------------------------- | :--------------------- | :------------------------------------------------------- |
-|                                                                       | B1: nRF52840 Feather   | Cortex-M4, 1MB, 256KB, 64                                |
-|                                                                       | B2: STM32f10 Blue Pill | Cortex-M0, 128kB, 20KB, 72                               |
-| ****************                                                      | B3: Adafruit HUZZAH32  | Xtensa LX6, 4MB, 520KB, 240                              |
-|                                                                       | B4: Raspberry Pi Pico  | Cortex-M0+, 16MB, 264KB, 133                             |
-| ********************************MCUs********************************  | B5: ATSAMD21 Metro     | Cortex-M0+, 256kB, 32KB, 48                              |
-|                                                                       | B6: Arduino Nano 33    | Cortex-M4, 1MB, 256KB, 64                                |
-|                                                                       | B7: Teensy 4\.0        | Cortex-M7, 2MB, 1MB, 600                                 |
-|                                                                       | B8: STM32 Nucleo H7    | Cortex-M7, 2MB, 1MB, 480                                 |
-|                                                                       | B9: Feather M4 Express | Cortex-M4, 2MB, 192KB, 120                               |
-|                                                                       | B10: Arduino Portenta  | Cortex-M7+M4, 2MB, 1MB, 480                              |
-|                                                                       | ****CPU\#: **Name**    | **Basic specs**                                          |
-|                                                                       | C1: W10 Laptop         | Intel Core i7 @1\.9GHz                                   |
-|                                                                       | C2: NVIDIA Jetson Nano | 128-core GPU @1\.4GHz                                    |
-| **CPUs**                                                              | C3: W10 Laptop         | Intel Core i5 @1\.6GHz                                   |
-| ********                                                              | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                                   |
-|                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @2\.4GHz                                      |
+|                                                                       | ****Board\#: **Name**  | **Specs: Processor flash, SRAM, clock (MHz)**  |
+| :-------------------------------------------------------------------- | :--------------------- | :--------------------------------------------- |
+|                                                                       | B1: nRF52840 Feather   | Cortex-M4, 1MB, 256KB, 64                      |
+|                                                                       | B2: STM32f10 Blue Pill | Cortex-M0, 128kB, 20KB, 72                     |
+| ****************                                                      | B3: Adafruit HUZZAH32  | Xtensa LX6, 4MB, 520KB, 240                    |
+|                                                                       | B4: Raspberry Pi Pico  | Cortex-M0+, 16MB, 264KB, 133                   |
+| ********************************MCUs********************************  | B5: ATSAMD21 Metro     | Cortex-M0+, 256kB, 32KB, 48                    |
+|                                                                       | B6: Arduino Nano 33    | Cortex-M4, 1MB, 256KB, 64                      |
+|                                                                       | B7: Teensy 4\.0        | Cortex-M7, 2MB, 1MB, 600                       |
+|                                                                       | B8: STM32 Nucleo H7    | Cortex-M7, 2MB, 1MB, 480                       |
+|                                                                       | B9: Feather M4 Express | Cortex-M4, 2MB, 192KB, 120                     |
+|                                                                       | B10: Arduino Portenta  | Cortex-M7+M4, 2MB, 1MB, 480                    |
+|                                                                       | ****CPU\#: **Name**    | **Basic specs**                                |
+|                                                                       | C1: W10 Laptop         | Intel Core i7 @1\.9GHz                         |
+|                                                                       | C2: NVIDIA Jetson Nano | 128-core GPU @1\.4GHz                          |
+| **CPUs**                                                              | C3: W10 Laptop         | Intel Core i5 @1\.6GHz                         |
+| ********                                                              | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                         |
+|                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @2\.4GHz                            |
 
 Below datasets are used for training on MCUs and CPUs.
 
