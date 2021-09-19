@@ -6,6 +6,8 @@ The concept of ***ML model aggregation rather than data aggregation*** has gaine
 
 ## Algorithms for Combining ML Models
 
+To enable **combining ML models rather than combining distributed data**, we select, implement and provide 8 robust methods that apply to a variety of IoT use-case data while also suitable for combining models trained on heterogeneous IoT devices.
+
 | **Algorithm**                                                                                     | **Source**                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Simple Average                                                                                    | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019)                                                                  |
