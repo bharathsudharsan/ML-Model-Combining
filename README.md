@@ -10,9 +10,9 @@ The contributions of this work can be summarized as follows:
 
 ## Table of Contents
 
-## Why Combining ML Models
+## Usecase
 
-### Usecase: Providing sensitive medical data for research
+A **Providing sensitive medical data for research** use case is presented to show a Combining ML Models application
 
 ![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Medical_data_usecase.png)
 
