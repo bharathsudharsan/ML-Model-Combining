@@ -59,7 +59,7 @@ To enable ***combining ML models rather than combining distributed data***, we s
 | Dynamic Ensemble Selection (DES)                                                    | [From dynamic classifier selection to dynamic ensemble selection](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10\.1.1.139.4165&rep=rep1&type=pdf) | [DES-LA.py](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/DES-LA.py)                                                               |
 | Stacking (meta ensembling): Use a meta learner to learn the base classifier results | [A Kaggler’s Guide to Model Stacking in Practice](https://datasciblog.github.io/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)              | [Stacking.py](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Stacking.py)                                                           |
 
-## Dependencies
+### Dependencies
 
 - Python 3.5, 3.6, or 3.7
 - joblib
