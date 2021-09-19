@@ -8,8 +8,13 @@ The contributions of this work can be summarized as follows:
 
 - From the available multitudinous number of studies, we choose, implement, and provide 8 robust ML model combining methods that are compatible with a wide range of datasets (varying feature dimensions and classes) and IoT devices (heterogeneous hardware specifications). We open-source the implementation, utilizing which researchers and engineers can start practicing distributed ensemble learning by combining ML base models trained on ubiquitous IoT devices.
 
-
 ## Table of Contents
+
+## Why Combining ML Models
+
+### Usecase: Providing sensitive medical data for research
+
+The data required for most research are sensitive in nature, as it revolves around a private individual. So, GDPR restricts sending such sensitive yet valuable medical data (from hospitals, imaging centers) to research institutes. As shown in above Fig, when the resource-constrained medical devices like insulin-delivery devices, BP apparatus are equipped with IoT hardware-friendly training algorithms like [ML-MCU](https://github.com/bharathsudharsan/ML-MCU), [Train++](https://github.com/bharathsudharsan/Train_plus_plus), they can perform onboard training of base models, even without depending on the hospital’s local servers. After training, the base models from similar devices can be extracted, combined, and sent to research labs with improved data privacy preservation. For example, the 2 base models $\mathrm{M} 7_{1}$, $\mathrm{M} 7_{2}$ (see above Fig) trained on ECG monitors using vital data of patients can be combined centrally, then shared for research. 
 
 ## Algorithms for Combining ML Models
 
