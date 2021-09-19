@@ -1,14 +1,34 @@
 # Combining Ubiquitous ML Models in IoT
 
-## Extras: Source and Ranking Portals
+## Useful Books, Toolboxes and Datasets
+
+## Good Papers to Read
+
+### Overview & Survey
+
+Ensemble methods in machine learning @MCS. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.4718&rep=rep1&type=pdf).
+Popular ensemble methods: An empirical study @JAIR. [PDF](https://www.d.umn.edu/~rmaclin/publications/opitz-jair99.pdfP)
+Ensemble learning: A survey @ Wiley Interdisciplinary Reviews. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1249)
+
+### Key Algorithms
+
+### Boosting
+
+### Clustering Ensemble
+
+### Outlier Ensemble
+
+### Ensemble Learning for Data Stream
+
+## Source and Ranking Portals
 
 1. [CORE](http://portal.core.edu.au/conf-ranks/)
 2. [ERA](http://www.conferenceranks.com/#)
 3. [SJR](https://www.scimagojr.com/)
 
-## Extras: Reputed Data Mining Conferences/Workshops/Journals
+## Reputed Data Mining Conferences/Workshops/Journals
 
-### Conferences & Workshops
+### Conferences and Workshops
 
 1. [ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
 
@@ -43,7 +63,7 @@
 5. [Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115)
 
 
-## Extras: Tips for Doing Good DM Research & Get it Published!
+## Doing Good Research and Get it Published
 
 [How to do good research, Get it published in SIGKDD and get it cited](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf): A fantastic tutorial on by Prof. Eamonn Keogh (UC Riverside).
 
