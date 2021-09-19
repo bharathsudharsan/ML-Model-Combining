@@ -25,18 +25,17 @@
 
 ### Outlier Ensemble
 
-1. Outlier ensembles: position paper                                                                  SIGKDD Explorations                    [PDF](https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf)
-2. Ensembles for unsupervised outlier detection: challenges and research questions a position paper   SIGKDD Explorations                     [PDF](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
-3. Isolation forest                                                                                   ICDM                                     [PDF](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)
-4. Outlier detection with autoencoder ensembles                                                       SDM                                        [PDF](http://saketsathe.net/downloads/autoencode.pdf)
-5. An Unsupervised Boosting Strategy for Outlier Detection Ensembles                                  PAKDD                                       [PDF](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45)
-6. LSCP: Locally selective combination in parallel outlier ensembles                                  SDM                                         [PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.66)
+1. Outlier ensembles: position paper @ SIGKDD Explorations. [PDF](https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf)
+2. Ensembles for unsupervised outlier detection: challenges and research questions a position paper @ SIGKDD Explorations. [PDF](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
+3. Isolation forest @ ICDM. [PDF](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)
+4. Outlier detection with autoencoder ensembles @ SDM. [PDF](http://saketsathe.net/downloads/autoencode.pdf)
+5. An Unsupervised Boosting Strategy for Outlier Detection Ensembles @ PAKDD. [PDF](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45)
+6. LSCP: Locally selective combination in parallel outlier ensembles @ SDM. [PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.66)
 
 ### Ensemble Learning for Data Stream
 
-1. A survey on ensemble learning for data stream classification                                       ACM Computing Surveys            [#Gomes2017A]_                [PDF](https://www.researchgate.net/publication/315698712_A_Survey_on_Ensemble_Learning_for_Data_Stream_Classification)
-2. Ensemble learning for data stream analysis: A survey                                               Information Fusion               [#Krawczyk2017Ensemble]_      [PDF](http://www.math.chalmers.se/Stat/Grundutb/GU/MSA220/S18/DataStream-Classification.pdf)
-
+1. A survey on ensemble learning for data stream classification @ ACM Computing Surveys. [PDF](https://www.researchgate.net/publication/315698712_A_Survey_on_Ensemble_Learning_for_Data_Stream_Classification)
+2. Ensemble learning for data stream analysis: A survey @Information Fusion. [PDF](http://www.math.chalmers.se/Stat/Grundutb/GU/MSA220/S18/DataStream-Classification.pdf)
 
 ### Key Algorithms
 
