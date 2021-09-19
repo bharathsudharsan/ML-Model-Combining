@@ -45,11 +45,8 @@
 
 ## Extras: Tips for Doing Good DM Research & Get it Published!
 
-`How to do good research, Get it published in SIGKDD and get it cited! <http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf>`_\ :
-a fantastic tutorial on SIGKDD'09 by Prof. Eamonn Keogh (UC Riverside).
+[How to do good research, Get it published in SIGKDD and get it cited](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf): A fantastic tutorial on by Prof. Eamonn Keogh (UC Riverside).
 
-`Checklist for Revising a SIGKDD Data Mining Paper <https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf>`_\ :
-a concise checklist by Prof. Eamonn Keogh (UC Riverside).
+[Checklist for Revising a SIGKDD Data Mining Paper](https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf): A concise checklist by Prof. Eamonn Keogh (UC Riverside).
 
-`How to Write and Publish Research Papers for the Premier Forums in Knowledge & Data Engineering <http://acsic.org/files/Writing16-Web.pdf>`_\ :
-a tutorial on how to structure data mining papers by Prof. Xindong Wu (University of Louisiana at Lafayette).
+[How to Write and Publish Research Papers for the Premier Forums in Knowledge & Data Engineering](http://acsic.org/files/Writing16-Web.pdf): A tutorial on how to structure data mining papers by Prof. Xindong Wu (University of Louisiana at Lafayette).
