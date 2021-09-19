@@ -10,6 +10,31 @@ The contributions of this work can be summarized as follows:
 
 ## Table of Contents
 
+- [Medical Data Usecase](#medical-data-usecase)
+- [Algorithms for Combining ML Models](#algorithms-for-combining-ml-models)
+- [Devices and Datasets for Experiments](#devices-and-datasets-for-experiments)
+- [Experiments: Distributed Train then Combine](#experiments--distributed-train-then-combine)
+  * [Procedure](#procedure)
+  * [Results Analysis](#results-analysis)
+  * [Observations](#observations)
+- [Useful Books, Toolboxes and Datasets](#useful-books--toolboxes-and-datasets)
+  * [Books](#books)
+  * [Toolboxes](#toolboxes)
+  * [Datasets](#datasets)
+- [Classic Papers](#classic-papers)
+  * [Overview & Survey](#overview---survey)
+  * [Boosting](#boosting)
+  * [Clustering Ensemble](#clustering-ensemble)
+  * [Outlier Ensemble](#outlier-ensemble)
+  * [Ensemble Learning for Data Stream](#ensemble-learning-for-data-stream)
+  * [Key Algorithms](#key-algorithms)
+- [Source and Ranking Portals](#source-and-ranking-portals)
+- [Reputed Data Mining Conferences/Workshops/Journals](#reputed-data-mining-conferences-workshops-journals)
+  * [Conferences and Workshops](#conferences-and-workshops)
+  * [Journals](#journals)
+- [Doing Good Research and Get it Published](#doing-good-research-and-get-it-published)
+
+
 ## Medical Data Usecase
 
 The **Providing sensitive medical data for research** use case can be a potential application where **Combining ML Models** can be utilized.
