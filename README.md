@@ -10,7 +10,7 @@ The contributions of this work can be summarized as follows:
 
 ## Table of Contents
 
-## Usecase
+## Medical Data Usecase
 
 The **Providing sensitive medical data for research** use case can be a potential application where **Combining ML Models** can be utilized.
 
@@ -81,6 +81,13 @@ Here, using the below Fig, performance of combined central models are analyzed.
 **Haberman's Survival dataset:** Again, DCS-LA showed the top performance. The DES and Stacking methods that produced a low performance for the previous dataset are the second and third best-performing methods. The other algebraic, averaging, and voting methods perform almost the same, achieving good accuracy and F1 but low ROC. 
 
 **Titanic dataset:** Stacking shows the highest accuracy, but DES achieved slightly higher ROC and F1 so, DES is the overall top-performing method. Unlike in previous datasets, here, the algebraic (combine by Maximization and Median), Averaging, and Voting methods show varying performance. From the algebraic methods, the combine by Median performed better. From averaging methods, Simple Averaging performed better.
+
+### Observations
+
+The following observation were made during experimentation:
+1. The computational cost for creating an ensemble is not much higher than training a single base model. It is because multiple versions of the base model need to be generated during parameter tuning. Also, the computational cost for combining multiple IoT devices trained base models was small due to the simplicity of the presented combination strategies.
+2. To construct a good ensemble, it is recommended to create base models ***as accurate and as diverse as possible***. 
+3. Creating a learning algorithm that is consistently better than others is a hopeless daydream. i.e., from above Fig, Stacking shows top performance for the Titanic dataset and least in the Banknote dataset.
 
 ## Useful Books, Toolboxes and Datasets
 
