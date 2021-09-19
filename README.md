@@ -12,7 +12,7 @@ Below are the Chosen heterogeneous devices on which distributed ML model trainin
 | :-------------------------------------------------------------------- | :--------------------- | :--------------------------------------------- |
 |                                                                       | B1: nRF52840 Feather   | Cortex-M4, 1MB, 256KB, 64                      |
 |                                                                       | B2: STM32f10 Blue Pill | Cortex-M0, 128kB, 20KB, 72                     |
-| ****************                                                      | B3: Adafruit HUZZAH32  | Xtensa LX6, 4MB, 520KB, 240                    |
+|                                                                       | B3: Adafruit HUZZAH32  | Xtensa LX6, 4MB, 520KB, 240                    |
 |                                                                       | B4: Raspberry Pi Pico  | Cortex-M0+, 16MB, 264KB, 133                   |
 | ********************************MCUs********************************  | B5: ATSAMD21 Metro     | Cortex-M0+, 256kB, 32KB, 48                    |
 |                                                                       | B6: Arduino Nano 33    | Cortex-M4, 1MB, 256KB, 64                      |
