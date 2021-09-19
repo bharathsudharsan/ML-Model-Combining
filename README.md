@@ -2,11 +2,18 @@
 
 The concept of ***ML model aggregation rather than data aggregation*** has gained much attention as it boosts prediction performance while maintaining stability and preserving privacy. In a non-ideal scenario, there are chances for a base model trained on a single device to make independent but complementary errors. To handle such cases, in this repo, we implement 8 robust ML model combining methods that achieves reliable prediction results by combining numerous base models (trained on many devices) to form a central model that effectively limits errors, built-in randomness and uncertainties.
 
+The contributions of this work can be summarized as follows:
+
+- The studies from centralized learning, split learning, distributed ensemble learning have extensively investigated combining models trained on devices like smartphones, Raspberry Pis, Jetson Nanos, etc. Such devices have sufficient resources to train base models (or ensembles) using standard training algorithms from Python Scikit-learn or light version ML frameworks like TensorFlow Lite. In contrast, we aim to achieve collective intelligence using MCUs, since billions of deployed IoT devices like HVAC controllers, smart meters, video doorbells have resource-constrained MCU-based hardware with only a few MB of memory. 
+
+- From the available multitudinous number of studies, we choose, implement, and provide 8 robust ML model combining methods that are compatible with a wide range of datasets (varying feature dimensions and classes) and IoT devices (heterogeneous hardware specifications). We open-source the implementation, utilizing which researchers and engineers can start practicing distributed ensemble learning by combining ML base models trained on ubiquitous IoT devices.
+
+
 ## Table of Contents
 
 ## Algorithms for Combining ML Models
 
-To enable **combining ML models rather than combining distributed data**, we select, implement and provide 8 robust methods that apply to a variety of IoT use-case data while also suitable for combining models trained on heterogeneous IoT devices.
+To enable ***combining ML models rather than combining distributed data***, we select, implement and provide 8 robust methods that apply to a variety of IoT use-case data while also suitable for combining models trained on heterogeneous IoT devices.
 
 | **Algorithm**                                                                                     | **Source**                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +42,7 @@ To enable **combining ML models rather than combining distributed data**, we sel
 |                                                                       | B8: STM32 Nucleo H7    | Cortex-M7, 2MB, 1MB, 480                       |
 |                                                                       | B9: Feather M4 Express | Cortex-M4, 2MB, 192KB, 120                     |
 |                                                                       | B10: Arduino Portenta  | Cortex-M7+M4, 2MB, 1MB, 480                    |
-|                                                                       | **	CPU\#: Name**        | **Basic specs**                                |
+|                                                                       | **CPU\#: Name**        | **Basic specs**                                |
 |                                                                       | C1: W10 Laptop         | Intel Core i7 @1\.9GHz                         |
 |                                                                       | C2: NVIDIA Jetson Nano | 128-core GPU @1\.4GHz                          |
 | **CPUs**                                                              | C3: W10 Laptop         | Intel Core i5 @1\.6GHz                         |
