@@ -8,7 +8,7 @@
 
 Below are the Chosen heterogeneous devices on which distributed ML model training is performed then combined using 7 combining methods.
 
-|                                                                       | ****Board\#: **Name**  | **Specs: Processor flash, SRAM, clock (MHz)**  |
+|                                                                       | Board\#: **Name**      | **Specs: Processor flash, SRAM, clock (MHz)**  |
 | :-------------------------------------------------------------------- | :--------------------- | :--------------------------------------------- |
 |                                                                       | B1: nRF52840 Feather   | Cortex-M4, 1MB, 256KB, 64                      |
 |                                                                       | B2: STM32f10 Blue Pill | Cortex-M0, 128kB, 20KB, 72                     |
@@ -20,7 +20,7 @@ Below are the Chosen heterogeneous devices on which distributed ML model trainin
 |                                                                       | B8: STM32 Nucleo H7    | Cortex-M7, 2MB, 1MB, 480                       |
 |                                                                       | B9: Feather M4 Express | Cortex-M4, 2MB, 192KB, 120                     |
 |                                                                       | B10: Arduino Portenta  | Cortex-M7+M4, 2MB, 1MB, 480                    |
-|                                                                       | ****CPU\#: **Name**    | **Basic specs**                                |
+|                                                                       | CPU\#: **Name**        | **Basic specs**                                |
 |                                                                       | C1: W10 Laptop         | Intel Core i7 @1\.9GHz                         |
 |                                                                       | C2: NVIDIA Jetson Nano | 128-core GPU @1\.4GHz                          |
 | **CPUs**                                                              | C3: W10 Laptop         | Intel Core i5 @1\.6GHz                         |
