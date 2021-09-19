@@ -24,7 +24,7 @@ Below are the Chosen heterogeneous devices on which distributed ML model trainin
 |                                                                       | C1: W10 Laptop         | Intel Core i7 @1\.9GHz                         |
 |                                                                       | C2: NVIDIA Jetson Nano | 128-core GPU @1\.4GHz                          |
 | **CPUs**                                                              | C3: W10 Laptop         | Intel Core i5 @1\.6GHz                         |
-| ********                                                              | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                         |
+|                                                                       | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                         |
 |                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @2\.4GHz                            |
 
 Below datasets are used for training on MCUs and CPUs.
