@@ -72,7 +72,7 @@ Initially, for the Banknote dataset, upon all devices completing the training, 1
 
 ### Results Analysis
 
-![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Performance_of_combined_models.png)
+![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Performance_of_combined_models.png =250x250)
 
 ## Useful Books, Toolboxes and Datasets
 
