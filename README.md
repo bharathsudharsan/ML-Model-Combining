@@ -6,7 +6,16 @@ The concept of ***ML model aggregation rather than data aggregation*** has gaine
 
 ## Algorithms for Combining ML Models
 
-
+| **Algorithm**                                                                                          | **Source**                                                                              |
+| :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| Simple Average                                                                                         | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019) |
+| Weighted Average: Average across all scores/prediction results                                         |                                                                                         |
+| Maximization: Simple combination by taking the maximum scores                                          |                                                                                         |
+| Weighted Majority Vote                                                                                 |                                                                                         |
+| Median: take the median value across all scores/prediction results                                     |                                                                                         |
+| DCS: Dynamic Classifier Selection (Combination of multiple classifiers using local accuracy estimates) |                                                                                         |
+| DES: Dynamic Ensemble Selection (From dynamic classifier selection to dynamic ensemble selection)      |                                                                                         |
+| Stacking (meta ensembling): use a meta learner to learn the base classifier results                    |                                                                                         |
 
 ## Devices and Datasets for Experiments 
 
@@ -34,7 +43,7 @@ The concept of ***ML model aggregation rather than data aggregation*** has gaine
 **Datasets:** Below datasets are used for training on MCUs and CPUs.
 
 1. [Banknote Authentication](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) (5 features, 2 classes, 1372 samples) <br/>
-2. [Haberman's Survival](https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival) (3 features, 2 classes, 306 samples). <br/>
+2. [Haberman's Survival](https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival) (3 features, 2 classes, 306 samples) <br/>
 3. [Titanic](https://www.kaggle.com/c/titanic/data) (11 features, 2 classes,  1300 samples) <br/>
 
 ## Useful Books, Toolboxes and Datasets
