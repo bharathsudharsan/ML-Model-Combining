@@ -12,6 +12,13 @@
 
 ### Key Algorithms
 
+1. Bagging predictors @Machine Learning. [PDF](https://link.springer.com/content/pdf/10.1007/BF00058655.pdf)
+2. A decision-theoretic generalization of on-line learning and an application to boosting @JCSS. [PDF](https://pdfs.semanticscholar.org/5fb5/f7b545a5320f2a50b30af599a9d9a92a8216.pdf)
+3. Bagging, Boosting @AAAI/IAAI. [PDF](http://www.cs.ecu.edu/~dingq/CSCI6905/readings/BaggingBoosting.pdf)
+4. Stacked generalization @Neural Networks. [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.8090&rep=rep1&type=pdf)
+5. Stacked regressions @Machine Learning. [PDF](https://link.springer.com/content/pdf/10.1007/BF00117832.pdf)
+
+
 ### Boosting
 
 ### Clustering Ensemble
