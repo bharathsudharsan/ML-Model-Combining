@@ -64,9 +64,15 @@ To enable ***combining ML models rather than combining distributed data***, we s
 
 ## Experiments: Distributed Train then Combine
 
+### Procedure
+
 The training process on all 15 devices is carried out using the resource-friendly classifier training algorithm from [ML-MCU](https://ieeexplore.ieee.org/document/9490288).
 
 Initially, for the Banknote dataset, upon all devices completing the training, 15 base models are obtained (first set). Then, each of the 8 ML model combining methods are one by one applied on this first set of models, producing 8 central models (one central model as an output of each combining method). A similar procedure was followed for the remaining datasets, producing the second and third set of models, followed by model combining. At this stage, there are 8 central models for each dataset, whose performance was evaluated in terms of Accuracy, ROC, and F1 score (F1) metrics.
+
+### Results Analysis
+
+![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Performance_of_combined_models.png)
 
 ## Useful Books, Toolboxes and Datasets
 
