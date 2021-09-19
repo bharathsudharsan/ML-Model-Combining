@@ -76,11 +76,11 @@ Here, using the below Fig, performance of combined central models are analysed.
 
 ![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Performance_of_combined_models.png)
 
-For the Banknote dataset, the highest performance is shown by the Dynamic Classifier Selection (DCS-LA) method. Followed by Maximization, then the Median combination method, where both show the same accuracy and slightly different ROC and F1. The Simple Averaging, Weighted Averaging, and the Weighted Majority Vote (WMV) methods achieve similar performance. The combine by Stacking is the least performing, followed by Dynamic Ensemble Selection (DES) method. 
+**Banknote Authentication dataset:** The highest performance is shown by the Dynamic Classifier Selection (DCS-LA) method. Followed by Maximization, then the Median combination method, where both show the same accuracy and slightly different ROC and F1. The Simple Averaging, Weighted Averaging, and the Weighted Majority Vote (WMV) methods achieve similar performance. The combine by Stacking is the least performing, followed by Dynamic Ensemble Selection (DES) method. 
 
-For Haberman's dataset again, DCS-LA showed the top performance. The DES and Stacking methods that produced a low performance for the previous dataset are the second and third best-performing methods. The other algebraic, averaging, and voting methods perform almost the same, achieving good accuracy and F1 but low ROC. 
+**Haberman's Survival dataset:** Again, DCS-LA showed the top performance. The DES and Stacking methods that produced a low performance for the previous dataset are the second and third best-performing methods. The other algebraic, averaging, and voting methods perform almost the same, achieving good accuracy and F1 but low ROC. 
 
-For the Titanic dataset, Stacking shows the highest accuracy, but DES achieved slightly higher ROC and F1 so, DES is the overall top-performing method. Unlike in previous datasets, here, the algebraic (combine by Maximization and Median), Averaging, and Voting methods show varying performance. From the algebraic methods, the combine by Median performed better. From averaging methods, Simple Averaging performed better.
+**Titanic dataset:** Stacking shows the highest accuracy, but DES achieved slightly higher ROC and F1 so, DES is the overall top-performing method. Unlike in previous datasets, here, the algebraic (combine by Maximization and Median), Averaging, and Voting methods show varying performance. From the algebraic methods, the combine by Median performed better. From averaging methods, Simple Averaging performed better.
 
 ## Useful Books, Toolboxes and Datasets
 
