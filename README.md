@@ -6,9 +6,9 @@
 
 ### Overview & Survey
 
-Ensemble methods in machine learning @MCS. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.4718&rep=rep1&type=pdf).
-Popular ensemble methods: An empirical study @JAIR. [PDF](https://www.d.umn.edu/~rmaclin/publications/opitz-jair99.pdfP)
-Ensemble learning: A survey @ Wiley Interdisciplinary Reviews. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1249)
+1. Ensemble methods in machine learning @MCS. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.4718&rep=rep1&type=pdf).
+2. Popular ensemble methods: An empirical study @JAIR. [PDF](https://www.d.umn.edu/~rmaclin/publications/opitz-jair99.pdfP)
+3. Ensemble learning: A survey @ Wiley Interdisciplinary Reviews. [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1249)
 
 ### Key Algorithms
 
