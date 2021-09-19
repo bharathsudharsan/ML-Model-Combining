@@ -1,4 +1,4 @@
-# Combining Ubiquitous ML Models in IoT (Repo under construction)
+# Combining Ubiquitous ML Models in IoT
 
 The concept of ***ML model aggregation rather than data aggregation*** has gained much attention as it boosts prediction performance while maintaining stability and preserving privacy. In a non-ideal scenario, there are chances for a base model trained on a single device to make independent but complementary errors. To handle such cases, in this repo, we implement 8 robust ML model combining methods that achieves reliable prediction results by combining numerous base models (trained on many devices) to form a central model that effectively limits errors, built-in randomness and uncertainties.
 
