@@ -10,35 +10,35 @@
 
 ### Conferences & Workshops
 
-[ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)] (http://www.kdd.org/conferences)
+[ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
 
-[ACM International Conference on Management of Data (SIGMOD)] (https://sigmod.org/)
+[ACM International Conference on Management of Data (SIGMOD)](https://sigmod.org/)
 
-[The Web Conference (WWW) ] (https://www2018.thewebconf.org/)
+[The Web Conference (WWW) ](https://www2018.thewebconf.org/)
 
-[IEEE International Conference on Data Mining (ICDM) ] (http://icdm2018.org/)
+[IEEE International Conference on Data Mining (ICDM)](http://icdm2018.org/)
 
-[SIAM International Conference on Data Mining (SDM) ] (https://www.siam.org/Conferences/CM/Main/sdm19)
+[SIAM International Conference on Data Mining (SDM)](https://www.siam.org/Conferences/CM/Main/sdm19)
 
-[IEEE International Conference on Data Engineering (ICDE) ] (https://icde2018.org/)
+[IEEE International Conference on Data Engineering (ICDE)](https://icde2018.org/)
 
-[ACM InternationalConference on Information and Knowledge Management (CIKM) ] (http://www.cikmconference.org/)
+[ACM InternationalConference on Information and Knowledge Management (CIKM)](http://www.cikmconference.org/)
 
-[ACM International Conference on Web Search and Data Mining (WSDM) ] (http://www.wsdm-conference.org/2018/)
+[ACM International Conference on Web Search and Data Mining (WSDM)](http://www.wsdm-conference.org/2018/)
 
-[The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) ] (http://www.ecmlpkdd2018.org/)
+[The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](http://www.ecmlpkdd2018.org/)
 
-[The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)] (<http://pakdd2019.medmeeting.org)
+[The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](http://pakdd2019.medmeeting.org)
 
 ### Journals
 
-[ACM Transactions on Knowledge Discovery from Data (TKDD)] (https://tkdd.acm.org/)
+[ACM Transactions on Knowledge Discovery from Data (TKDD)](https://tkdd.acm.org/)
 
-[IEEE Transactions on Knowledge and Data Engineering (TKDE)] (https://www.computer.org/web/tkde)
+[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/web/tkde)
 
-[ACM SIGKDD Explorations Newsletter] (http://www.kdd.org/explorations)
+[ACM SIGKDD Explorations Newsletter](http://www.kdd.org/explorations)
 
-[Data Mining and Knowledge Discovery] (https://link.springer.com/journal/10618)
+[Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618)
 
 [Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115)
 
