@@ -19,13 +19,13 @@ Combining methods and modeling issues such as ensemble diversity and ensemble si
 
 ### Toolboxes
 
-[**Python**] [combo](https://github.com/yzhao062/combo): combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores for various tasks, including classification, clustering, and anomaly detection. It supports the combination of ML models from core libraries such as scikit-learn and xgboost.
+1. [combo](https://github.com/yzhao062/combo): combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores for various tasks, including classification, clustering, and anomaly detection. It supports the combination of ML models from core libraries such as scikit-learn and xgboost.
 
-[**Python**] [pycobra](https://github.com/bhargavvader/pycobra):  python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
+2. [pycobra](https://github.com/bhargavvader/pycobra):  python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 
-[**Python**] [DESlib](https://github.com/scikit-learn-contrib/DESlib):  A Python library for dynamic classifier and ensemble selection.
+3. [DESlib](https://github.com/scikit-learn-contrib/DESlib):  A Python library for dynamic classifier and ensemble selection.
 
-[**Python**] [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn):  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning.
+4. [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn):  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning.
 
 
 ### Datasets
