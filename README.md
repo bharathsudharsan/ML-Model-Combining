@@ -56,7 +56,7 @@ To enable ***combining ML models rather than combining distributed data***, we s
 |                                                                       | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                         |
 |                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @2\.4GHz                            |
 
-**Datasets:** Below datasets are used for training on MCUs and CPUs.
+**Datasets:** Below datasets are used for training on the above MCUs and CPUs.
 
 1. [Banknote Authentication](https://archive.ics.uci.edu/ml/datasets/banknote+authentication) (5 features, 2 classes, 1372 samples) <br/>
 2. [Haberman's Survival](https://archive.ics.uci.edu/ml/datasets/Haberman's+Survival) (3 features, 2 classes, 306 samples) <br/>
