@@ -4,34 +4,28 @@
 
 ### Books
 
-Ensemble Methods: Foundations and Algorithms <https://www.crcpress.com/Ensemble-Methods-Foundations-and-Algorithms/Zhou/p/book/9781439830031>`_
-by Zhi-Hua Zhou [#Zhou2012Ensemble]_: Classical text book covering most of the ensemble learning techniques.
-A **must-read** for people in the field. `[Full Book] <http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf>`_
+1. [Ensemble Methods: Foundations and Algorithms](https://www.crcpress.com/Ensemble-Methods-Foundations-and-Algorithms/Zhou/p/book/9781439830031): Classical text book covering most of the ensemble learning techniques.
+A **must-read** for people in the field
 
-Ensemble Machine Learning: Methods and Applications <https://link.springer.com/book/10.1007%2F978-1-4419-9326-7>`_
-edited by Oleg Okun [#Zhang2012Ensemble]_: Responding to a shortage of literature dedicated to the topic, this volume offers comprehensive coverage of state-of-the-art ensemble learning techniques,
+2. [Ensemble Machine Learning: Methods and Applications](https://link.springer.com/book/10.1007%2F978-1-4419-9326-7): Responding to a shortage of literature dedicated to the topic, this volume offers comprehensive coverage of state-of-the-art ensemble learning techniques,
 including various contributions from researchers in leading industrial research labs.
 
-Applications of Supervised and Unsupervised Ensemble Methods <https://www.springer.com/gp/book/9783642039980>`_
-edited by Oleg Okun [#Okun2009Applications]_: This book contains the extended papers presented at the 2nd Workshop on Supervised and Unsupervised Ensemble Methods and their Applications (SUEMA),
-in conjunction with ECAI’2008.
+3. [Applications of Supervised and Unsupervised Ensemble Methods](https://www.springer.com/gp/book/9783642039980): This book contains the extended papers presented at the 2nd Workshop on Supervised and Unsupervised Ensemble Methods and their Applications (SUEMA), in conjunction with ECAI.
 
-Data Mining and Knowledge Discovery Handbook <https://link.springer.com/chapter/10.1007/0-387-25465-X_45>`_ Chapter 45 (Ensemble Methods for Classifiers):
-by Lior Rokach [#Rokach2005Ensemble]_:  This chapter provides an overview of ensemble methods in classification tasks. We present all important types of ensemble method including boosting and bagging.
+4. [Data Mining and Knowledge Discovery Handbook](https://link.springer.com/chapter/10.1007/0-387-25465-X_45) Chapter 45 (Ensemble Methods for Classifiers): This chapter provides an overview of ensemble methods in classification tasks. We present all important types of ensemble method including boosting and bagging.
 Combining methods and modeling issues such as ensemble diversity and ensemble size are discussed.
 
-Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_
-by Charu Aggarwal and Saket Sathe [#Aggarwal2017Outlier]_: Great intro book for ensemble learning in outlier analysis.
+5. [Outlier Ensembles: An Introduction](https://www.springer.com/gp/book/9783319547640): Great intro book for ensemble learning in outlier analysis.
 
 ### Toolboxes
 
-[**Python**] [combo](https://github.com/yzhao062/combo>: combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores for various tasks, including classification, clustering, and anomaly detection. It supports the combination of ML models from core libraries such as scikit-learn and xgboost (`documentation <http://pycombo.readthedocs.io/>`_).
+[**Python**] [combo](https://github.com/yzhao062/combo): combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores for various tasks, including classification, clustering, and anomaly detection. It supports the combination of ML models from core libraries such as scikit-learn and xgboost.
 
 [**Python**] [pycobra](https://github.com/bhargavvader/pycobra):  python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 
 [**Python**] [DESlib](https://github.com/scikit-learn-contrib/DESlib):  A Python library for dynamic classifier and ensemble selection.
 
-[**Python**] [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn):  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning (`documentation <http://imbalanced-learn.org>`_).
+[**Python**] [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn):  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning.
 
 
 ### Datasets
@@ -131,8 +125,8 @@ general machine learning benchmark datasets. Some helpful links can be found bel
 
 ## Doing Good Research and Get it Published
 
-[How to do good research, Get it published in SIGKDD and get it cited](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf): A fantastic tutorial on by Prof. Eamonn Keogh (UC Riverside).
+[How to do good research, Get it published in SIGKDD and get it cited](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf): A fantastic tutorial on by Prof. Eamonn Keogh (UC Riverside)
 
-[Checklist for Revising a SIGKDD Data Mining Paper](https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf): A concise checklist by Prof. Eamonn Keogh (UC Riverside).
+[Checklist for Revising a SIGKDD Data Mining Paper](https://web.cs.dal.ca/~eem/gradResources/KDD/Checklist%20for%20Revising%20a%20SIGKDD%20Data%20Mining%20Paper.pdf): A concise checklist by Prof. Eamonn Keogh (UC Riverside)
 
-[How to Write and Publish Research Papers for the Premier Forums in Knowledge & Data Engineering](http://acsic.org/files/Writing16-Web.pdf): A tutorial on how to structure data mining papers by Prof. Xindong Wu (University of Louisiana at Lafayette).
+[How to Write and Publish Research Papers for the Premier Forums in Knowledge & Data Engineering](http://acsic.org/files/Writing16-Web.pdf): A tutorial on how to structure data mining papers by Prof. Xindong Wu (University of Louisiana at Lafayette)
