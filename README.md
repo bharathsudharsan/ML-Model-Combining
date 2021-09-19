@@ -6,16 +6,16 @@ The concept of ***ML model aggregation rather than data aggregation*** has gaine
 
 ## Algorithms for Combining ML Models
 
-| **Algorithm**                                                                                          | **Source**                                                                              |
-| :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| Simple Average                                                                                         | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019) |
-| Weighted Average: Average across all scores/prediction results                                         |                                                                                         |
-| Maximization: Simple combination by taking the maximum scores                                          |                                                                                         |
-| Weighted Majority Vote                                                                                 |                                                                                         |
-| Median: take the median value across all scores/prediction results                                     |                                                                                         |
-| DCS: Dynamic Classifier Selection (Combination of multiple classifiers using local accuracy estimates) |                                                                                         |
-| DES: Dynamic Ensemble Selection (From dynamic classifier selection to dynamic ensemble selection)      |                                                                                         |
-| Stacking (meta ensembling): use a meta learner to learn the base classifier results                    |                                                                                         |
+| **Algorithm**                                                                                     | **Source**                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Simple Average                                                                                    | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019)                                                                  |
+| Weighted Average: Average across all scores/prediction results                                    | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019)                                                                  |
+| Maximization: Simple combination by taking the maximum scores                                     | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019)                                                                  |
+| Weighted Majority Vote                                                                            | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019)                                                                  |
+| Median: take the median value across all scores/prediction results                                | [Ensemble Methods: Foundations and Algorithms](https://dl.acm.org/doi/10\.5555/2381019)                                                                  |
+| DCS: Dynamic Classifier Selection                                                                 | [Combination of multiple classifiers using local accuracy estimates](https://ieeexplore.ieee.org/document/588027)                                        |
+| DES: Dynamic Ensemble Selection (From dynamic classifier selection to dynamic ensemble selection) | [From dynamic classifier selection to dynamic ensemble selection](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10\.1.1.139.4165&rep=rep1&type=pdf) |
+| Stacking (meta ensembling): use a meta learner to learn the base classifier results               | [A Kaggler’s Guide to Model Stacking in Practice](https://datasciblog.github.io/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)              |
 
 ## Devices and Datasets for Experiments 
 
