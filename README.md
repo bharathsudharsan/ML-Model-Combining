@@ -2,45 +2,45 @@
 
 ## Extras: Source and Ranking Portals
 
-* `CORE <http://portal.core.edu.au/conf-ranks/>`_
-* `ERA <http://www.conferenceranks.com/#>`_
-* `SJR <https://www.scimagojr.com/>`_
+1. [CORE] (http://portal.core.edu.au/conf-ranks/)
+2. [ERA] (http://www.conferenceranks.com/#)
+3. [SJR](https://www.scimagojr.com/)
 
 ## Extras: Reputed Data Mining Conferences/Workshops/Journals
 
 ### Conferences & Workshops
 
-[ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
+1. [ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
 
-[ACM International Conference on Management of Data (SIGMOD)](https://sigmod.org/)
+2. [ACM International Conference on Management of Data (SIGMOD)](https://sigmod.org/)
 
-[The Web Conference (WWW) ](https://www2018.thewebconf.org/)
+3. [The Web Conference (WWW) ](https://www2018.thewebconf.org/)
 
-[IEEE International Conference on Data Mining (ICDM)](http://icdm2018.org/)
+4. [IEEE International Conference on Data Mining (ICDM)](http://icdm2018.org/)
 
-[SIAM International Conference on Data Mining (SDM)](https://www.siam.org/Conferences/CM/Main/sdm19)
+5. [SIAM International Conference on Data Mining (SDM)](https://www.siam.org/Conferences/CM/Main/sdm19)
 
-[IEEE International Conference on Data Engineering (ICDE)](https://icde2018.org/)
+6. [IEEE International Conference on Data Engineering (ICDE)](https://icde2018.org/)
 
-[ACM InternationalConference on Information and Knowledge Management (CIKM)](http://www.cikmconference.org/)
+7. [ACM InternationalConference on Information and Knowledge Management (CIKM)](http://www.cikmconference.org/)
 
-[ACM International Conference on Web Search and Data Mining (WSDM)](http://www.wsdm-conference.org/2018/)
+8. [ACM International Conference on Web Search and Data Mining (WSDM)](http://www.wsdm-conference.org/2018/)
 
-[The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](http://www.ecmlpkdd2018.org/)
+9. [The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](http://www.ecmlpkdd2018.org/)
 
-[The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](http://pakdd2019.medmeeting.org)
+10.[The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](http://pakdd2019.medmeeting.org)
 
 ### Journals
 
-[ACM Transactions on Knowledge Discovery from Data (TKDD)](https://tkdd.acm.org/)
+1. [ACM Transactions on Knowledge Discovery from Data (TKDD)](https://tkdd.acm.org/)
 
-[IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/web/tkde)
+2. [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/web/tkde)
 
-[ACM SIGKDD Explorations Newsletter](http://www.kdd.org/explorations)
+3. [ACM SIGKDD Explorations Newsletter](http://www.kdd.org/explorations)
 
-[Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618)
+4. [Data Mining and Knowledge Discovery](https://link.springer.com/journal/10618)
 
-[Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115)
+5. [Knowledge and Information Systems (KAIS)](https://link.springer.com/journal/10115)
 
 
 ## Extras: Tips for Doing Good DM Research & Get it Published!
