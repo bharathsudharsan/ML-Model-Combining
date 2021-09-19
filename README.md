@@ -2,7 +2,7 @@
 
 ## Useful Books, Toolboxes and Datasets
 
-## Good Papers to Read
+## Classic Papers
 
 ### Overview & Survey
 
