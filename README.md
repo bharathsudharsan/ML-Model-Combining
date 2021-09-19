@@ -12,7 +12,7 @@ The contributions of this work can be summarized as follows:
 
 ## Usecase
 
-A **Providing sensitive medical data for research** use case can be a potential application for **Combining ML Models**.
+The **Providing sensitive medical data for research** use case can be a potential application where **Combining ML Models** can be utilized.
 
 ![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Medical_data_usecase.png)
 
@@ -72,7 +72,7 @@ Initially, for the Banknote dataset, upon all devices completing the training, 1
 
 ### Results Analysis
 
-Here, using the below Fig, performance of combined central models are analysed.
+Here, using the below Fig, performance of combined central models are analyzed.
 
 ![alt text](https://github.com/bharathsudharsan/ML-Model-Combining/blob/master/Performance_of_combined_models.png)
 
