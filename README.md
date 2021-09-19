@@ -18,10 +18,10 @@
 
 ### Clustering Ensemble
 
-1. Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions                  JMLR                                      [PDF](http://strehl.com/download/strehl-jmlr02.pdf)
-2. Clusterer Ensemble                                                                                 KBS                                      [PDF](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kbs06.pdf)
-3. A survey of clustering ensemble algorithms                                                         IJPRAI                                       [PDF](https://pdfs.semanticscholar.org/0d1b/7d01fb2634b6160a96bbdd73f918ed3859cb.pdf)
-4. Clustering ensemble method 
+1. Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions @ JMLR. [PDF](http://strehl.com/download/strehl-jmlr02.pdf)
+2. Clusterer Ensemble @ KBS. [PDF](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kbs06.pdf)
+3. A survey of clustering ensemble algorithms @ IJPRAI. [PDF](https://pdfs.semanticscholar.org/0d1b/7d01fb2634b6160a96bbdd73f918ed3859cb.pdf)
+4. Clustering ensemble method @ Cybernetics. [PDF](https://www.researchgate.net/publication/322520921_Clustering_ensemble_method)
 
 ### Outlier Ensemble
 
