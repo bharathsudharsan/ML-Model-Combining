@@ -91,7 +91,7 @@ To enable ***combining ML models rather than combining distributed data***, we s
 |                                                                       | C2: NVIDIA Jetson Nano | 128-core GPU @1\.4GHz                          |
 | **CPUs**                                                              | C3: W10 Laptop         | Intel Core i5 @1\.6GHz                         |
 |                                                                       | C4: Ubuntu Laptop      | Intel Core i7 @2\.4GHz                         |
-|                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @2\.4GHz                            |
+|                                                                       | C5: Raspberry Pi 4     | Cortex-A72 @1\.5GHz                            |
 
 **Datasets:** Below datasets are used for training on the above MCUs and CPUs.
 
