@@ -10,7 +10,7 @@ The contributions of this work can be summarized as follows:
 
 ## Table of Contents
 
-- [Medical Data Use case](#medical-data-use case)
+- [Medical Data Usecase](#medical-data-usecase)
 - [Algorithms for Combining ML Models](#algorithms-for-combining-ml-models)
   * [Dependencies](#dependencies)	
 - [Devices and Datasets for Experiments](#devices-and-datasets-for-experiments)
@@ -36,7 +36,7 @@ The contributions of this work can be summarized as follows:
 - [Doing Good Research and Get it Published](#doing-good-research-and-get-it-published)
 
 
-## Medical Data Use case
+## Medical Data Usecase
 
 The **Providing sensitive medical data for research** use case can be a potential application where **Combining ML Models** can be utilized.
 
